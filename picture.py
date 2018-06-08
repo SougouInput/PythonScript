@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 #! /usr/bin/env python
-"""
+'''
 Created on Thu Jun  7 10:32:14 2018
 
 @author: May.golddemon@gmail.com
-"""
+'''
 
 from PIL import Image,ImageDraw,ImageFont
 
