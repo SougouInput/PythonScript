@@ -27,5 +27,5 @@ def paste(List):
                 s=s+str(List[i])+','
             s=s+'and '+str(List[-1])+'.'
             return s
-    else:
+    else: 
         print('please input a list!')
