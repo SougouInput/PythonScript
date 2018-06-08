@@ -23,4 +23,4 @@ def generate(count, length):
         print(Re)
 
 if __name__ == "__main__":
-    generate(20, 20）
+    generate(20, 20)
